@@ -1,7 +1,7 @@
 # Battery Info
 
 <h1 align="center">
-	<img width="150" src="images/logo.svg" alt="Battery Info">
+	<img width="150" src="https://rawgit.com/radibit/battery-info-chrome-extension/master/images/logo.svg" alt="Battery Info">
 	<br>
 	<br>
 </h1>

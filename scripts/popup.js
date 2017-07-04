@@ -18,6 +18,10 @@ document.addEventListener('DOMContentLoaded', function() {
       text: battery.level !== 1 ? batteryInfo.level.toString() : ''
     });
 
+    chrome.browserAction.setBadgeBackgroundColor({
+      color: [94, 97, 106, 255]
+    });
+
     if (battery.charging) {
       iconChargingElement.style.display = 'block';
 

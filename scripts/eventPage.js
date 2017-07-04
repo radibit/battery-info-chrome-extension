@@ -9,6 +9,10 @@ function updateBatteryLevel(level, isCharging) {
   chrome.browserAction.setBadgeText({
     text: batteryLevelText
   });
+
+  chrome.browserAction.setBadgeBackgroundColor({
+    color: [94, 97, 106, 255]
+  });
 }
 
 function getBatteryStatus() {

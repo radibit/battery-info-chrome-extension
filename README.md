@@ -21,4 +21,4 @@ Features:
 
 <img width="150" src="images/screenshot-2.png" alt="Battery Info Screenshot 2">
 
-It will be available on Chrome Web Store soon.
+It's available on the [Chrome Web Store](https://chrome.google.com/webstore/detail/battery-info/jchnojkeefjdioodimacimfiefjdbpag).
